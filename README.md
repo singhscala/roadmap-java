@@ -29,21 +29,21 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
- - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
- - [ ] Control Flow
- - [ ] OOP Part 1 - Inheritance
- - [ ] OOP Part 2 - Polymorphism
+ - ✅ Getting Started
+ - ✅ Programming Tools Setup
+ - ✅ First Steps
+ - ✅ IntelliJ Basics
+ - ✅ Expressions, Statements & More
+ - ✅ Control Flow
+ - ✅ OOP Part 1 - Inheritance
+ - ✅ OOP Part 2 - Polymorphism
  - [ ] Arrays
  - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - ✅ Day 00
- - [ ] Day 01
+ - ✅ Day 01
  - [ ] Day 02
  - [ ] Day 03
  - [ ] Day 04
