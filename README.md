@@ -51,7 +51,7 @@ Step by step guide to becoming a modern Java developer
  - ✅ Day 06
  - ✅ Day 07
  - ✅ Day 08
- - [ ] Day 09
+ - ✅ Day 09
 
 ## Basic Stage 2
 
@@ -87,7 +87,7 @@ Step by step guide to becoming a modern Java developer
  - ✅ Input & Output (I/O), Working with Files in Java
  - ✅ Concurrency
  - ✅ Working with Databases
- - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
+ - ✅ Java Networking with Channels, Reactive Programming, and Virtual Threads
  - [ ] Debugging and Unit Testing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
