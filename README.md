@@ -68,7 +68,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 10
+ - ✅ Day 10
  - [ ] Day 11
  - [ ] Day 12
  - [ ] Day 13
@@ -88,7 +88,7 @@ Step by step guide to becoming a modern Java developer
  - ✅ Concurrency
  - ✅ Working with Databases
  - ✅ Java Networking with Channels, Reactive Programming, and Virtual Threads
- - [ ] Debugging and Unit Testing
+ - ✅ Debugging and Unit Testing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
