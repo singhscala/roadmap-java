@@ -72,8 +72,8 @@ Step by step guide to becoming a modern Java developer
  - ✅ Day 11
  - ✅ Day 12
  - ✅ Day 13
- - [ ] Day 14
- - [ ] Day 15
+ - ✅ Day 14
+ - ✅ Day 15
  - [ ] Day 16
  - [ ] Day 17
  - [ ] Day 18
@@ -107,8 +107,8 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
- - [ ]  01 - Understanding Dependency Injection
- - [ ]  02 - Setting Up
+ - ✅  01 - Understanding Dependency Injection
+ - ✅  02 - Setting Up
  - [ ]  03 - Understanding Spring Bean Factory
  - [ ]  04 - Writing Code Using the Bean Factory
  - [ ]  05 - ApplicationContext and Property Initialization
