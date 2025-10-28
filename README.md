@@ -97,9 +97,9 @@ Step by step guide to becoming a modern Java developer
  - ✅ Day 22
  - ✅ Day 23
  - ✅ Day 24
- - [ ] Day 25
- - [ ] Day 26
- - [ ] Day 27
+ - ✅ Day 25
+ - ✅ Day 26
+ - ✅ Day 27
  - [ ] Day 28
  - [ ] Day 29
 
@@ -134,9 +134,9 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Data Support](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
 
- - [ ] 01 - Introduction to Spring Data and Setting Up
- - [ ] 02 - Using JDBC without Spring
- - [ ] 03 - Adding Spring and DataSource Configuration
+ - ✅ 01 - Introduction to Spring Data and Setting Up
+ - ✅ 02 - Using JDBC without Spring
+ - ✅ 03 - Adding Spring and DataSource Configuration
  - [ ] 04 - Using JdbcTemplate
  - [ ] 05 - Returning Other Datatypes from JdbcTemplate
  - [ ] 06 - Implementing RowMapper
