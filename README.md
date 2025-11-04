@@ -154,14 +154,14 @@ Step by step guide to becoming a modern Java developer
  - ✅ 03 - What is Spring Boot
  - ✅ 04 - Spring and some of its problems
  - ✅ 05 - What Spring Boot gives us
- - [ ] 06 - Setting Up Development Environment
- - [ ] 07 - Maven
- - [ ] 08 - Creating a Spring Boot project
- - [ ] 09 - Starting a Spring Boot application
- - [ ] 10 - Spring Boot startup steps
- - [ ] 11 - Adding a REST Controller
- - [ ] 12 - Returning Objects From Controller
- - [ ] 13 - What's Happening Here: Bill Of Materials
+ - ✅ 06 - Setting Up Development Environment
+ - ✅ 07 - Maven
+ - ✅ 08 - Creating a Spring Boot project
+ - ✅ 09 - Starting a Spring Boot application
+ - ✅ 10 - Spring Boot startup steps
+ - ✅ 11 - Adding a REST Controller
+ - ✅ 12 - Returning Objects From Controller
+ - ✅ 13 - What's Happening Here: Bill Of Materials
  - [ ] 14 - What's Happening Here: Embedded Servlet Container
  - [ ] 15 - How Spring MVC Works
  - [ ] 16 - The REST API we'll build
