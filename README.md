@@ -162,13 +162,13 @@ Step by step guide to becoming a modern Java developer
  - ✅ 11 - Adding a REST Controller
  - ✅ 12 - Returning Objects From Controller
  - ✅ 13 - What's Happening Here: Bill Of Materials
- - [ ] 14 - What's Happening Here: Embedded Servlet Container
- - [ ] 15 - How Spring MVC Works
- - [ ] 16 - The REST API we'll build
- - [ ] 17 - Creating a business service
- - [ ] 18 - Getting a single resource
- - [ ] 19 - Creating a new resource using POST
- - [ ] 20 - Implementing Update and Delete
+ - ✅ 14 - What's Happening Here: Embedded Servlet Container
+ - ✅ 15 - How Spring MVC Works
+ - ✅ 16 - The REST API we'll build
+ - ✅ 17 - Creating a business service
+ - ✅ 18 - Getting a single resource
+ - ✅ 19 - Creating a new resource using POST
+ - ✅ 20 - Implementing Update and Delete
  - [ ] 21 - Unit Overview
  - [ ] 22 - Using Spring Initializr
  - [ ] 23 - Using Spring Boot CLI
